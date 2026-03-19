@@ -87,3 +87,13 @@ Agents
 	Agents3
 
 	Agents4
+
+Synthetic Data
+
+	SD1 - Auto Encoder Illustration
+
+	SD2 - Variational_Autoencoder_(VAE)_Illustration
+
+	SD3 - GAN Illustration
+
+	SD4 - Synthetic Loan Data Generation with CTGAN & TVAE
